@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React from royiכגעגדכ
+          Learn React from royiכגעגדכ dfg dfgf sdfg sdf
         </a>
       </header>
     </div>
